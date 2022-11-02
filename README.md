@@ -11,4 +11,10 @@ Unbounce lets you create custom landing pages twice as fast as old-school builde
 #### JavaScript
 #### CSS
 
-# 
+# Landing page
+#### User first time can see this page.
+<img src="https://github.com/pandit0305/unbounce/blob/main/landing_page.png"/>
+
+# Navbar section
+#### Navbar has dropdown functionality. When the page is scrolled, navbar background color will change.
+<img src="https://github.com/pandit0305/unbounce/blob/main/navbar.png"/>
